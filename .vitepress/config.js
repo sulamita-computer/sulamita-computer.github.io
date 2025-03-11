@@ -15,7 +15,10 @@ export default defineConfig({
 
     sidebar: {
       "/os/": [{ text: "Загальна інформація", link: "/os/" }],
-      "/logos/": [{ text: "Загальна інформація", link: "/logos/" }],
+      "/logos/": [
+        { text: "Загальна інформація", link: "/logos/" },
+        { text: "Ресурсна система", link: "/logos/resources" },
+      ],
     },
 
     socialLinks: [
