@@ -7,8 +7,8 @@ hero:
   text: "Computer Project"
   tagline: "Християнська ініціатива, покликана зробити комп’ютер не прокляттям, а благословенням для віруючих."
   image: 
-    light: "/logo-big.png"
-    dark: "/logo-big-dark.png"
+    light: "/logo.png"
+    dark: "/logo-dark.png"
 
 features:
   - title: Sulamita Logos
