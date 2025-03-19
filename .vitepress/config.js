@@ -18,6 +18,14 @@ export default defineConfig({
       "/logos/": [
         { text: "Загальна інформація", link: "/logos/" },
         { text: "Ресурсна система", link: "/logos/resources" },
+        {
+          text: "Інтерфейс",
+          link: "/logos/interface",
+          items: [
+            { text: "Веб-застосунок", link: "/logos/interface/web" },
+            { text: "Мобільний додаток", link: "/logos/interface/phone" },
+          ],
+        },
       ],
     },
 
