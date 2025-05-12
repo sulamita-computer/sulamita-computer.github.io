@@ -11,6 +11,7 @@ export default defineConfig({
     nav: [
       { text: "Logos", link: "/logos" },
       { text: "SulamitaOS", link: "/os" },
+      { text: "Quiz", link: "/quiz" },
     ],
 
     sidebar: {
@@ -26,6 +27,10 @@ export default defineConfig({
             { text: "Мобільний додаток", link: "/logos/interface/phone" },
           ],
         },
+      ],
+      "/quiz/": [
+        { text: "Загальна інформація", link: "/quiz/" },
+        { text: "0.1", link: "/quiz/0-1" },
       ],
     },
 

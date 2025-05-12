@@ -17,5 +17,8 @@ features:
   - title: SulamitaOS
     details: Християнський Gnu/Linux дистрибутив
     link: /os
+  - title: Sulamita Quiz
+    details: Платформа для проведення командних ігор побудовані на запитаннях
+    link: /quiz
 ---
 
